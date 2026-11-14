@@ -1,5 +1,10 @@
 # CloudEagle.ai — AI Governance & Spend Command Center
 
+[![Deployment Status](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel)](https://cloudeagle-ai-gov.vercel.app)
+[![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+
 **Live Production Prototype:** [https://cloudeagle-ai-gov.vercel.app](https://cloudeagle-ai-gov.vercel.app)
 
 > **Product Reviewer Tip:** Toggle **"PM Rationale Pins"** in the top-right header to reveal interactive product management annotations (`#1`–`#5`) explaining *why* each visualization and workflow exists for the **CFO (FinOps)** and **CISO (IT/Security)** personas.
